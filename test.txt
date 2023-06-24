@@ -1,0 +1,10 @@
+git using commands
+
+->create repository
+->git init
+->git add.
+->git commit -m  "first commit"
+->copy url https
+
+->git remote add main ____
+->git push origin master
